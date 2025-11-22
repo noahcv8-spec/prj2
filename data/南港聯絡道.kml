@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+		<Document><name>N0032_100m</name>
+	<Schema>
+	  <SimpleField name="name" type="string"></SimpleField>
+      <SimpleField name="description" type="string"></SimpleField>
+      <SimpleField name="styleUrl" type="string"></SimpleField>
+      <SimpleField name="coordinates" type="string"></SimpleField>
+	</Schema>
+	<Style id="StyPMI">
+		<IconStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+			<Icon><href>http://www.strongco.url.tw/THB/Image/Kilometer.png</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+<Folder><name>CSV2KML</name>
+	<Placemark><name>000K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6233197</TD><TD>25.04680111</TD><TD>40.5</TD><TD>0</TD><TD>000K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6233197,25.04680111,40.5 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6225496</TD><TD>25.04736788</TD><TD>42.05</TD><TD>100</TD><TD>000K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6225496,25.04736788,42.05 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6218877</TD><TD>25.04803847</TD><TD>43.3</TD><TD>200</TD><TD>000K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6218877,25.04803847,43.3 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6213472</TD><TD>25.04879394</TD><TD>44.55</TD><TD>300</TD><TD>000K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6213472,25.04879394,44.55 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6209406</TD><TD>25.04961585</TD><TD>45.77</TD><TD>400</TD><TD>000K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6209406,25.04961585,45.77 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6206767</TD><TD>25.0504849</TD><TD>47</TD><TD>500</TD><TD>000K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6206767,25.0504849,47 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6205656</TD><TD>25.0513809</TD><TD>48.25</TD><TD>600</TD><TD>000K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6205656,25.0513809,48.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6206041</TD><TD>25.05228177</TD><TD>49.52</TD><TD>700</TD><TD>000K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6206041,25.05228177,49.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6207947</TD><TD>25.05316649</TD><TD>50.75</TD><TD>800</TD><TD>000K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6207947,25.05316649,50.75 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6211246</TD><TD>25.05401689</TD><TD>51.42</TD><TD>900</TD><TD>000K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6211246,25.05401689,51.42 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6215331</TD><TD>25.05483895</TD><TD>49.71</TD><TD>1000</TD><TD>001K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6215331,25.05483895,49.71 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6219833</TD><TD>25.05564228</TD><TD>45.4</TD><TD>1100</TD><TD>001K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6219833,25.05564228,45.4 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6223458</TD><TD>25.0564793</TD><TD>43.65</TD><TD>1200</TD><TD>001K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6223458,25.0564793,43.65 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6223736</TD><TD>25.05737584</TD><TD>44.24</TD><TD>1300</TD><TD>001K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6223736,25.05737584,44.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.622043</TD><TD>25.05822154</TD><TD>44.82</TD><TD>1400</TD><TD>001K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.622043,25.05822154,44.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+408</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>南港聯絡道</TD><TD>M</TD><TD>121.6220063</TD><TD>25.05828323</TD><TD>44.88</TD><TD>1408</TD><TD>001K+408</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				121.6220063,25.05828323,44.88 
+			</coordinates></Point></Placemark>
+</Folder>
+		</Document>
+	</kml>

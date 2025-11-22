@@ -1,0 +1,2058 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+		<Document><name>N0100_100m</name>
+	<Schema>
+	  <SimpleField name="name" type="string"></SimpleField>
+      <SimpleField name="description" type="string"></SimpleField>
+      <SimpleField name="styleUrl" type="string"></SimpleField>
+      <SimpleField name="coordinates" type="string"></SimpleField>
+	</Schema>
+	<Style id="StyPMI">
+		<IconStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+			<Icon><href>http://www.strongco.url.tw/THB/Image/Kilometer.png</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+	</Style>
+<Folder><name>CSV2KML</name>
+	<Placemark><name>000K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3118985</TD><TD>22.68015865</TD><TD>41.49</TD><TD>0</TD><TD>000K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3118985,22.68015865,41.49 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3127592</TD><TD>22.67973756</TD><TD>41.3</TD><TD>100</TD><TD>000K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3127592,22.67973756,41.3 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3136539</TD><TD>22.67938404</TD><TD>41.41</TD><TD>200</TD><TD>000K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3136539,22.67938404,41.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3146006</TD><TD>22.67918304</TD><TD>41.69</TD><TD>300</TD><TD>000K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3146006,22.67918304,41.69 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3155717</TD><TD>22.67914788</TD><TD>41.82</TD><TD>400</TD><TD>000K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3155717,22.67914788,41.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3165442</TD><TD>22.67917963</TD><TD>42.01</TD><TD>500</TD><TD>000K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3165442,22.67917963,42.01 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3175162</TD><TD>22.67915053</TD><TD>42.22</TD><TD>600</TD><TD>000K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3175162,22.67915053,42.22 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3184776</TD><TD>22.67901351</TD><TD>42.41</TD><TD>700</TD><TD>000K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3184776,22.67901351,42.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3194111</TD><TD>22.67876157</TD><TD>42.13</TD><TD>800</TD><TD>000K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3194111,22.67876157,42.13 
+			</coordinates></Point></Placemark>
+	<Placemark><name>000K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3202972</TD><TD>22.67839032</TD><TD>41.71</TD><TD>900</TD><TD>000K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3202972,22.67839032,41.71 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3211335</TD><TD>22.67792918</TD><TD>41.38</TD><TD>1000</TD><TD>001K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3211335,22.67792918,41.38 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3219542</TD><TD>22.67744388</TD><TD>41.31</TD><TD>1100</TD><TD>001K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3219542,22.67744388,41.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3227748</TD><TD>22.67695858</TD><TD>41.23</TD><TD>1200</TD><TD>001K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3227748,22.67695858,41.23 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3236047</TD><TD>22.67648716</TD><TD>41.38</TD><TD>1300</TD><TD>001K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3236047,22.67648716,41.38 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3244622</TD><TD>22.6760607</TD><TD>41.62</TD><TD>1400</TD><TD>001K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3244622,22.6760607,41.62 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3253536</TD><TD>22.67569985</TD><TD>41.86</TD><TD>1500</TD><TD>001K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3253536,22.67569985,41.86 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3262822</TD><TD>22.67543288</TD><TD>42.35</TD><TD>1600</TD><TD>001K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3262822,22.67543288,42.35 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3272385</TD><TD>22.67527126</TD><TD>43.15</TD><TD>1700</TD><TD>001K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3272385,22.67527126,43.15 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.328208</TD><TD>22.67520033</TD><TD>43.98</TD><TD>1800</TD><TD>001K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.328208,22.67520033,43.98 
+			</coordinates></Point></Placemark>
+	<Placemark><name>001K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3291795</TD><TD>22.67523796</TD><TD>44.57</TD><TD>1900</TD><TD>001K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3291795,22.67523796,44.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3301399</TD><TD>22.67537815</TD><TD>44.84</TD><TD>2000</TD><TD>002K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3301399,22.67537815,44.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3310772</TD><TD>22.67561929</TD><TD>45.04</TD><TD>2100</TD><TD>002K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3310772,22.67561929,45.04 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3319784</TD><TD>22.67595888</TD><TD>45.2</TD><TD>2200</TD><TD>002K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3319784,22.67595888,45.2 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3328515</TD><TD>22.67635732</TD><TD>45.32</TD><TD>2300</TD><TD>002K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3328515,22.67635732,45.32 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3337192</TD><TD>22.67676625</TD><TD>45.49</TD><TD>2400</TD><TD>002K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3337192,22.67676625,45.49 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3345847</TD><TD>22.67717895</TD><TD>45.67</TD><TD>2500</TD><TD>002K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3345847,22.67717895,45.67 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.335449</TD><TD>22.67759401</TD><TD>45.85</TD><TD>2600</TD><TD>002K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.335449,22.67759401,45.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3363133</TD><TD>22.67800906</TD><TD>46.03</TD><TD>2700</TD><TD>002K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3363133,22.67800906,46.03 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3371775</TD><TD>22.67842411</TD><TD>46.21</TD><TD>2800</TD><TD>002K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3371775,22.67842411,46.21 
+			</coordinates></Point></Placemark>
+	<Placemark><name>002K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3380418</TD><TD>22.67883915</TD><TD>46.39</TD><TD>2900</TD><TD>002K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3380418,22.67883915,46.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3389061</TD><TD>22.67925419</TD><TD>46.58</TD><TD>3000</TD><TD>003K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3389061,22.67925419,46.58 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3397704</TD><TD>22.67966923</TD><TD>46.76</TD><TD>3100</TD><TD>003K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3397704,22.67966923,46.76 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3406385</TD><TD>22.68007715</TD><TD>46.9</TD><TD>3200</TD><TD>003K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3406385,22.68007715,46.9 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3415124</TD><TD>22.68047448</TD><TD>47.01</TD><TD>3300</TD><TD>003K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3415124,22.68047448,47.01 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3423863</TD><TD>22.68087182</TD><TD>47.11</TD><TD>3400</TD><TD>003K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3423863,22.68087182,47.11 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3432602</TD><TD>22.68126915</TD><TD>47.21</TD><TD>3500</TD><TD>003K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3432602,22.68126915,47.21 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3441342</TD><TD>22.68166647</TD><TD>47.31</TD><TD>3600</TD><TD>003K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3441342,22.68166647,47.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3450081</TD><TD>22.68206379</TD><TD>47.41</TD><TD>3700</TD><TD>003K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3450081,22.68206379,47.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.345882</TD><TD>22.6824611</TD><TD>47.51</TD><TD>3800</TD><TD>003K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.345882,22.6824611,47.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>003K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3467559</TD><TD>22.68285841</TD><TD>47.61</TD><TD>3900</TD><TD>003K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3467559,22.68285841,47.61 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3476299</TD><TD>22.68325572</TD><TD>47.72</TD><TD>4000</TD><TD>004K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3476299,22.68325572,47.72 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3485038</TD><TD>22.68365302</TD><TD>47.82</TD><TD>4100</TD><TD>004K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3485038,22.68365302,47.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3493778</TD><TD>22.68405032</TD><TD>47.92</TD><TD>4200</TD><TD>004K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3493778,22.68405032,47.92 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3502517</TD><TD>22.68444761</TD><TD>48.02</TD><TD>4300</TD><TD>004K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3502517,22.68444761,48.02 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3511257</TD><TD>22.68484489</TD><TD>48.12</TD><TD>4400</TD><TD>004K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3511257,22.68484489,48.12 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3519996</TD><TD>22.68524218</TD><TD>48.22</TD><TD>4500</TD><TD>004K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3519996,22.68524218,48.22 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3528711</TD><TD>22.68564411</TD><TD>48.29</TD><TD>4600</TD><TD>004K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3528711,22.68564411,48.29 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3537122</TD><TD>22.68609726</TD><TD>48.6</TD><TD>4700</TD><TD>004K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3537122,22.68609726,48.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3544858</TD><TD>22.68664376</TD><TD>49.67</TD><TD>4800</TD><TD>004K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3544858,22.68664376,49.67 
+			</coordinates></Point></Placemark>
+	<Placemark><name>004K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3551914</TD><TD>22.68726465</TD><TD>51.57</TD><TD>4900</TD><TD>004K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3551914,22.68726465,51.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3558265</TD><TD>22.68794809</TD><TD>52.82</TD><TD>5000</TD><TD>005K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3558265,22.68794809,52.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3563768</TD><TD>22.68869223</TD><TD>53.41</TD><TD>5100</TD><TD>005K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3563768,22.68869223,53.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3568411</TD><TD>22.6894851</TD><TD>54.59</TD><TD>5200</TD><TD>005K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3568411,22.6894851,54.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3572061</TD><TD>22.69032149</TD><TD>56.67</TD><TD>5300</TD><TD>005K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3572061,22.69032149,56.67 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3574775</TD><TD>22.69118798</TD><TD>58.4</TD><TD>5400</TD><TD>005K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3574775,22.69118798,58.4 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3576721</TD><TD>22.69207268</TD><TD>58.68</TD><TD>5500</TD><TD>005K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3576721,22.69207268,58.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3578496</TD><TD>22.6929606</TD><TD>58.79</TD><TD>5600</TD><TD>005K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3578496,22.6929606,58.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3580259</TD><TD>22.69384872</TD><TD>58.99</TD><TD>5700</TD><TD>005K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3580259,22.69384872,58.99 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3582021</TD><TD>22.69473685</TD><TD>59.19</TD><TD>5800</TD><TD>005K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3582021,22.69473685,59.19 
+			</coordinates></Point></Placemark>
+	<Placemark><name>005K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3583784</TD><TD>22.69562497</TD><TD>59.39</TD><TD>5900</TD><TD>005K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3583784,22.69562497,59.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3585546</TD><TD>22.6965131</TD><TD>59.59</TD><TD>6000</TD><TD>006K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3585546,22.6965131,59.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3587309</TD><TD>22.69740122</TD><TD>59.79</TD><TD>6100</TD><TD>006K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3587309,22.69740122,59.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3589072</TD><TD>22.69828935</TD><TD>59.99</TD><TD>6200</TD><TD>006K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3589072,22.69828935,59.99 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3590835</TD><TD>22.69917747</TD><TD>60.19</TD><TD>6300</TD><TD>006K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3590835,22.69917747,60.19 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3592597</TD><TD>22.70006559</TD><TD>60.39</TD><TD>6400</TD><TD>006K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3592597,22.70006559,60.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.359436</TD><TD>22.70095372</TD><TD>60.59</TD><TD>6500</TD><TD>006K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.359436,22.70095372,60.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3596123</TD><TD>22.70184184</TD><TD>60.79</TD><TD>6600</TD><TD>006K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3596123,22.70184184,60.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3597878</TD><TD>22.70273008</TD><TD>61.02</TD><TD>6700</TD><TD>006K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3597878,22.70273008,61.02 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3599528</TD><TD>22.70362004</TD><TD>61.68</TD><TD>6800</TD><TD>006K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3599528,22.70362004,61.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>006K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3600971</TD><TD>22.70451305</TD><TD>62.48</TD><TD>6900</TD><TD>006K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3600971,22.70451305,62.48 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3602144</TD><TD>22.70540946</TD><TD>63.14</TD><TD>7000</TD><TD>007K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3602144,22.70540946,63.14 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603001</TD><TD>22.70630897</TD><TD>63.52</TD><TD>7100</TD><TD>007K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603001,22.70630897,63.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603575</TD><TD>22.70721038</TD><TD>63.84</TD><TD>7200</TD><TD>007K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603575,22.70721038,63.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603817</TD><TD>22.70811306</TD><TD>63.96</TD><TD>7300</TD><TD>007K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603817,22.70811306,63.96 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603759</TD><TD>22.70901599</TD><TD>63.85</TD><TD>7400</TD><TD>007K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603759,22.70901599,63.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603448</TD><TD>22.70991851</TD><TD>63.56</TD><TD>7500</TD><TD>007K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603448,22.70991851,63.56 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3602804</TD><TD>22.71081952</TD><TD>62.96</TD><TD>7600</TD><TD>007K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3602804,22.71081952,62.96 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3601952</TD><TD>22.71171909</TD><TD>62.28</TD><TD>7700</TD><TD>007K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3601952,22.71171909,62.28 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.36011</TD><TD>22.71261866</TD><TD>61.6</TD><TD>7800</TD><TD>007K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.36011,22.71261866,61.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>007K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3600248</TD><TD>22.71351824</TD><TD>60.92</TD><TD>7900</TD><TD>007K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3600248,22.71351824,60.92 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3599397</TD><TD>22.71441781</TD><TD>60.24</TD><TD>8000</TD><TD>008K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3599397,22.71441781,60.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3598551</TD><TD>22.71531743</TD><TD>59.59</TD><TD>8100</TD><TD>008K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3598551,22.71531743,59.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3597794</TD><TD>22.71621775</TD><TD>59.35</TD><TD>8200</TD><TD>008K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3597794,22.71621775,59.35 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3597182</TD><TD>22.71711881</TD><TD>59.09</TD><TD>8300</TD><TD>008K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3597182,22.71711881,59.09 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3596984</TD><TD>22.71802163</TD><TD>58.8</TD><TD>8400</TD><TD>008K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3596984,22.71802163,58.8 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3596874</TD><TD>22.71892463</TD><TD>58.52</TD><TD>8500</TD><TD>008K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3596874,22.71892463,58.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3596764</TD><TD>22.71982762</TD><TD>58.24</TD><TD>8600</TD><TD>008K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3596764,22.71982762,58.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3596718</TD><TD>22.72073064</TD><TD>57.97</TD><TD>8700</TD><TD>008K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3596718,22.72073064,57.97 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3597141</TD><TD>22.72163267</TD><TD>57.73</TD><TD>8800</TD><TD>008K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3597141,22.72163267,57.73 
+			</coordinates></Point></Placemark>
+	<Placemark><name>008K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3597981</TD><TD>22.72253231</TD><TD>57.78</TD><TD>8900</TD><TD>008K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3597981,22.72253231,57.78 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3599014</TD><TD>22.72343024</TD><TD>58.06</TD><TD>9000</TD><TD>009K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3599014,22.72343024,58.06 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3600081</TD><TD>22.72432786</TD><TD>58.37</TD><TD>9100</TD><TD>009K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3600081,22.72432786,58.37 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3601147</TD><TD>22.72522548</TD><TD>58.68</TD><TD>9200</TD><TD>009K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3601147,22.72522548,58.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3602213</TD><TD>22.7261231</TD><TD>59</TD><TD>9300</TD><TD>009K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3602213,22.7261231,59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3603279</TD><TD>22.72702072</TD><TD>59.31</TD><TD>9400</TD><TD>009K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3603279,22.72702072,59.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3604345</TD><TD>22.72791834</TD><TD>59.63</TD><TD>9500</TD><TD>009K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3604345,22.72791834,59.63 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3605411</TD><TD>22.72881596</TD><TD>59.94</TD><TD>9600</TD><TD>009K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3605411,22.72881596,59.94 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3606478</TD><TD>22.72971358</TD><TD>60.26</TD><TD>9700</TD><TD>009K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3606478,22.72971358,60.26 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3607243</TD><TD>22.73061361</TD><TD>60.57</TD><TD>9800</TD><TD>009K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3607243,22.73061361,60.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>009K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3607481</TD><TD>22.73151638</TD><TD>60.87</TD><TD>9900</TD><TD>009K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3607481,22.73151638,60.87 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3607759</TD><TD>22.73241897</TD><TD>61.16</TD><TD>10000</TD><TD>010K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3607759,22.73241897,61.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3608857</TD><TD>22.7333159</TD><TD>61.39</TD><TD>10100</TD><TD>010K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3608857,22.7333159,61.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3610186</TD><TD>22.73421049</TD><TD>61.58</TD><TD>10200</TD><TD>010K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3610186,22.73421049,61.58 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3611516</TD><TD>22.73510508</TD><TD>61.78</TD><TD>10300</TD><TD>010K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3611516,22.73510508,61.78 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3612786</TD><TD>22.7360004</TD><TD>61.87</TD><TD>10400</TD><TD>010K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3612786,22.7360004,61.87 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3613995</TD><TD>22.73689646</TD><TD>61.85</TD><TD>10500</TD><TD>010K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3613995,22.73689646,61.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3615205</TD><TD>22.73779253</TD><TD>61.83</TD><TD>10600</TD><TD>010K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3615205,22.73779253,61.83 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3616414</TD><TD>22.73868859</TD><TD>61.81</TD><TD>10700</TD><TD>010K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3616414,22.73868859,61.81 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3617623</TD><TD>22.73958465</TD><TD>61.79</TD><TD>10800</TD><TD>010K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3617623,22.73958465,61.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>010K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3618832</TD><TD>22.74048072</TD><TD>61.77</TD><TD>10900</TD><TD>010K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3618832,22.74048072,61.77 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3620041</TD><TD>22.74137678</TD><TD>61.75</TD><TD>11000</TD><TD>011K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3620041,22.74137678,61.75 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3621251</TD><TD>22.74227284</TD><TD>61.73</TD><TD>11100</TD><TD>011K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3621251,22.74227284,61.73 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.362246</TD><TD>22.7431689</TD><TD>61.71</TD><TD>11200</TD><TD>011K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.362246,22.7431689,61.71 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3623703</TD><TD>22.74406456</TD><TD>61.77</TD><TD>11300</TD><TD>011K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3623703,22.74406456,61.77 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3625141</TD><TD>22.74495763</TD><TD>62.09</TD><TD>11400</TD><TD>011K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3625141,22.74495763,62.09 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3626861</TD><TD>22.74584633</TD><TD>62.43</TD><TD>11500</TD><TD>011K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3626861,22.74584633,62.43 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3628979</TD><TD>22.74672753</TD><TD>62.68</TD><TD>11600</TD><TD>011K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3628979,22.74672753,62.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3631674</TD><TD>22.74759512</TD><TD>62.7</TD><TD>11700</TD><TD>011K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3631674,22.74759512,62.7 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.363503</TD><TD>22.74844246</TD><TD>62.54</TD><TD>11800</TD><TD>011K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.363503,22.74844246,62.54 
+			</coordinates></Point></Placemark>
+	<Placemark><name>011K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3639004</TD><TD>22.74926656</TD><TD>62.32</TD><TD>11900</TD><TD>011K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3639004,22.74926656,62.32 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3643622</TD><TD>22.75006127</TD><TD>62.14</TD><TD>12000</TD><TD>012K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3643622,22.75006127,62.14 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3648806</TD><TD>22.75082532</TD><TD>61.97</TD><TD>12100</TD><TD>012K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3648806,22.75082532,61.97 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3654579</TD><TD>22.75155225</TD><TD>61.79</TD><TD>12200</TD><TD>012K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3654579,22.75155225,61.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3660817</TD><TD>22.75224552</TD><TD>61.57</TD><TD>12300</TD><TD>012K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3660817,22.75224552,61.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.366736</TD><TD>22.7529141</TD><TD>61.36</TD><TD>12400</TD><TD>012K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.366736,22.7529141,61.36 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3674246</TD><TD>22.75355227</TD><TD>61.1</TD><TD>12500</TD><TD>012K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3674246,22.75355227,61.1 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3681402</TD><TD>22.75416435</TD><TD>60.85</TD><TD>12600</TD><TD>012K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3681402,22.75416435,60.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3688844</TD><TD>22.75474646</TD><TD>60.78</TD><TD>12700</TD><TD>012K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3688844,22.75474646,60.78 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3696585</TD><TD>22.75529398</TD><TD>61.1</TD><TD>12800</TD><TD>012K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3696585,22.75529398,61.1 
+			</coordinates></Point></Placemark>
+	<Placemark><name>012K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3704565</TD><TD>22.75581129</TD><TD>61.73</TD><TD>12900</TD><TD>012K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3704565,22.75581129,61.73 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3712792</TD><TD>22.75629391</TD><TD>62.68</TD><TD>13000</TD><TD>013K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3712792,22.75629391,62.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3721238</TD><TD>22.75674285</TD><TD>64.02</TD><TD>13100</TD><TD>013K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3721238,22.75674285,64.02 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3729885</TD><TD>22.75715767</TD><TD>65.53</TD><TD>13200</TD><TD>013K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3729885,22.75715767,65.53 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3738722</TD><TD>22.75753651</TD><TD>66.85</TD><TD>13300</TD><TD>013K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3738722,22.75753651,66.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3747735</TD><TD>22.75787796</TD><TD>67.94</TD><TD>13400</TD><TD>013K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3747735,22.75787796,67.94 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3756901</TD><TD>22.75818246</TD><TD>68.76</TD><TD>13500</TD><TD>013K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3756901,22.75818246,68.76 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3766207</TD><TD>22.7584477</TD><TD>69.3</TD><TD>13600</TD><TD>013K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3766207,22.7584477,69.3 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3775611</TD><TD>22.75868198</TD><TD>69.57</TD><TD>13700</TD><TD>013K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3775611,22.75868198,69.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3785091</TD><TD>22.75888769</TD><TD>69.6</TD><TD>13800</TD><TD>013K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3785091,22.75888769,69.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>013K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3794615</TD><TD>22.75907554</TD><TD>69.38</TD><TD>13900</TD><TD>013K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3794615,22.75907554,69.38 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.380418</TD><TD>22.75924418</TD><TD>68.72</TD><TD>14000</TD><TD>014K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.380418,22.75924418,68.72 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3813771</TD><TD>22.7594001</TD><TD>68.1</TD><TD>14100</TD><TD>014K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3813771,22.7594001,68.1 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3823366</TD><TD>22.75955394</TD><TD>67.55</TD><TD>14200</TD><TD>014K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3823366,22.75955394,67.55 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3832961</TD><TD>22.75970778</TD><TD>67.01</TD><TD>14300</TD><TD>014K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3832961,22.75970778,67.01 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3842556</TD><TD>22.75986161</TD><TD>66.47</TD><TD>14400</TD><TD>014K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3842556,22.75986161,66.47 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.385212</TD><TD>22.76003091</TD><TD>66.33</TD><TD>14500</TD><TD>014K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.385212,22.76003091,66.33 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3861632</TD><TD>22.76022378</TD><TD>66.6</TD><TD>14600</TD><TD>014K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3861632,22.76022378,66.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3871051</TD><TD>22.76045266</TD><TD>67.07</TD><TD>14700</TD><TD>014K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3871051,22.76045266,67.07 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3880351</TD><TD>22.76071981</TD><TD>67.91</TD><TD>14800</TD><TD>014K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3880351,22.76071981,67.91 
+			</coordinates></Point></Placemark>
+	<Placemark><name>014K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3889491</TD><TD>22.76103082</TD><TD>69.04</TD><TD>14900</TD><TD>014K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3889491,22.76103082,69.04 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.389845</TD><TD>22.76138411</TD><TD>70.39</TD><TD>15000</TD><TD>015K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.389845,22.76138411,70.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3907205</TD><TD>22.76177902</TD><TD>71.76</TD><TD>15100</TD><TD>015K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3907205,22.76177902,71.76 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3915732</TD><TD>22.76221463</TD><TD>73.12</TD><TD>15200</TD><TD>015K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3915732,22.76221463,73.12 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3924025</TD><TD>22.76268738</TD><TD>74.56</TD><TD>15300</TD><TD>015K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3924025,22.76268738,74.56 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3932056</TD><TD>22.76319774</TD><TD>75.93</TD><TD>15400</TD><TD>015K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3932056,22.76319774,75.93 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.393977</TD><TD>22.76374842</TD><TD>77.33</TD><TD>15500</TD><TD>015K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.393977,22.76374842,77.33 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3947287</TD><TD>22.76432213</TD><TD>78.76</TD><TD>15600</TD><TD>015K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3947287,22.76432213,78.76 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3954658</TD><TD>22.76491212</TD><TD>80.16</TD><TD>15700</TD><TD>015K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3954658,22.76491212,80.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3962021</TD><TD>22.76550294</TD><TD>81.56</TD><TD>15800</TD><TD>015K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3962021,22.76550294,81.56 
+			</coordinates></Point></Placemark>
+	<Placemark><name>015K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3969432</TD><TD>22.76608861</TD><TD>82.9</TD><TD>15900</TD><TD>015K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3969432,22.76608861,82.9 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3977004</TD><TD>22.76665612</TD><TD>84.1</TD><TD>16000</TD><TD>016K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3977004,22.76665612,84.1 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3984864</TD><TD>22.76718909</TD><TD>85.27</TD><TD>16100</TD><TD>016K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3984864,22.76718909,85.27 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.3993003</TD><TD>22.76768463</TD><TD>86.31</TD><TD>16200</TD><TD>016K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.3993003,22.76768463,86.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4001377</TD><TD>22.76814502</TD><TD>87.26</TD><TD>16300</TD><TD>016K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4001377,22.76814502,87.26 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4009948</TD><TD>22.7685734</TD><TD>88.2</TD><TD>16400</TD><TD>016K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4009948,22.7685734,88.2 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4018773</TD><TD>22.7689548</TD><TD>89.27</TD><TD>16500</TD><TD>016K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4018773,22.7689548,89.27 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4027704</TD><TD>22.76931442</TD><TD>90.51</TD><TD>16600</TD><TD>016K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4027704,22.76931442,90.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4036728</TD><TD>22.76965348</TD><TD>92.39</TD><TD>16700</TD><TD>016K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4036728,22.76965348,92.39 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4045757</TD><TD>22.7699914</TD><TD>94.32</TD><TD>16800</TD><TD>016K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4045757,22.7699914,94.32 
+			</coordinates></Point></Placemark>
+	<Placemark><name>016K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4054785</TD><TD>22.77032931</TD><TD>96.24</TD><TD>16900</TD><TD>016K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4054785,22.77032931,96.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4063814</TD><TD>22.77066722</TD><TD>98.17</TD><TD>17000</TD><TD>017K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4063814,22.77066722,98.17 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4072843</TD><TD>22.77100512</TD><TD>100.09</TD><TD>17100</TD><TD>017K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4072843,22.77100512,100.09 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4081872</TD><TD>22.77134302</TD><TD>102.02</TD><TD>17200</TD><TD>017K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4081872,22.77134302,102.02 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4090905</TD><TD>22.77167958</TD><TD>104.6</TD><TD>17300</TD><TD>017K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4090905,22.77167958,104.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4099939</TD><TD>22.77201583</TD><TD>107.34</TD><TD>17400</TD><TD>017K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4099939,22.77201583,107.34 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4108973</TD><TD>22.77235207</TD><TD>110.08</TD><TD>17500</TD><TD>017K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4108973,22.77235207,110.08 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4118007</TD><TD>22.77268831</TD><TD>112.82</TD><TD>17600</TD><TD>017K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4118007,22.77268831,112.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4127041</TD><TD>22.77302454</TD><TD>115.56</TD><TD>17700</TD><TD>017K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4127041,22.77302454,115.56 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4136064</TD><TD>22.77336323</TD><TD>118.31</TD><TD>17800</TD><TD>017K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4136064,22.77336323,118.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>017K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4145051</TD><TD>22.77371026</TD><TD>121.08</TD><TD>17900</TD><TD>017K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4145051,22.77371026,121.08 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4153894</TD><TD>22.77408756</TD><TD>123.82</TD><TD>18000</TD><TD>018K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4153894,22.77408756,123.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4162624</TD><TD>22.77448683</TD><TD>126.63</TD><TD>18100</TD><TD>018K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4162624,22.77448683,126.63 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4171112</TD><TD>22.77492858</TD><TD>129.34</TD><TD>18200</TD><TD>018K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4171112,22.77492858,129.34 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4179359</TD><TD>22.77540786</TD><TD>132.13</TD><TD>18300</TD><TD>018K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4179359,22.77540786,132.13 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4187335</TD><TD>22.77592525</TD><TD>134.8</TD><TD>18400</TD><TD>018K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4187335,22.77592525,134.8 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4195039</TD><TD>22.77647693</TD><TD>136.97</TD><TD>18500</TD><TD>018K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4195039,22.77647693,136.97 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4202448</TD><TD>22.77706243</TD><TD>138.77</TD><TD>18600</TD><TD>018K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4202448,22.77706243,138.77 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4209574</TD><TD>22.77767756</TD><TD>140.21</TD><TD>18700</TD><TD>018K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4209574,22.77767756,140.21 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4216379</TD><TD>22.77832328</TD><TD>141.24</TD><TD>18800</TD><TD>018K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4216379,22.77832328,141.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>018K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4222773</TD><TD>22.77900423</TD><TD>141.86</TD><TD>18900</TD><TD>018K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4222773,22.77900423,141.86 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4228837</TD><TD>22.77971073</TD><TD>142.29</TD><TD>19000</TD><TD>019K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4228837,22.77971073,142.29 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4234609</TD><TD>22.78043788</TD><TD>142.76</TD><TD>19100</TD><TD>019K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4234609,22.78043788,142.76 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4240031</TD><TD>22.78118788</TD><TD>143.25</TD><TD>19200</TD><TD>019K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4240031,22.78118788,143.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4245125</TD><TD>22.78195742</TD><TD>143.73</TD><TD>19300</TD><TD>019K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4245125,22.78195742,143.73 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4249966</TD><TD>22.7827409</TD><TD>144.23</TD><TD>19400</TD><TD>019K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4249966,22.7827409,144.23 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4254682</TD><TD>22.78353102</TD><TD>144.74</TD><TD>19500</TD><TD>019K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4254682,22.78353102,144.74 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4259259</TD><TD>22.78432809</TD><TD>145.2</TD><TD>19600</TD><TD>019K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4259259,22.78432809,145.2 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4263837</TD><TD>22.78512516</TD><TD>145.66</TD><TD>19700</TD><TD>019K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4263837,22.78512516,145.66 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4268415</TD><TD>22.78592223</TD><TD>146.13</TD><TD>19800</TD><TD>019K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4268415,22.78592223,146.13 
+			</coordinates></Point></Placemark>
+	<Placemark><name>019K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4273052</TD><TD>22.78671632</TD><TD>146.64</TD><TD>19900</TD><TD>019K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4273052,22.78671632,146.64 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4277861</TD><TD>22.78750151</TD><TD>147.21</TD><TD>20000</TD><TD>020K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4277861,22.78750151,147.21 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4282945</TD><TD>22.78827163</TD><TD>147.59</TD><TD>20100</TD><TD>020K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4282945,22.78827163,147.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4288265</TD><TD>22.78902794</TD><TD>147.71</TD><TD>20200</TD><TD>020K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4288265,22.78902794,147.71 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4293983</TD><TD>22.78975875</TD><TD>147.38</TD><TD>20300</TD><TD>020K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4293983,22.78975875,147.38 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4300059</TD><TD>22.7904642</TD><TD>146.67</TD><TD>20400</TD><TD>020K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4300059,22.7904642,146.67 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4306434</TD><TD>22.79114674</TD><TD>145.66</TD><TD>20500</TD><TD>020K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4306434,22.79114674,145.66 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4313186</TD><TD>22.79179721</TD><TD>144.15</TD><TD>20600</TD><TD>020K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4313186,22.79179721,144.15 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4320281</TD><TD>22.79241545</TD><TD>142.21</TD><TD>20700</TD><TD>020K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4320281,22.79241545,142.21 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4327678</TD><TD>22.79300237</TD><TD>139.85</TD><TD>20800</TD><TD>020K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4327678,22.79300237,139.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>020K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4335359</TD><TD>22.79355683</TD><TD>137.19</TD><TD>20900</TD><TD>020K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4335359,22.79355683,137.19 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4343304</TD><TD>22.79407853</TD><TD>134.52</TD><TD>21000</TD><TD>021K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4343304,22.79407853,134.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4351525</TD><TD>22.79456196</TD><TD>131.79</TD><TD>21100</TD><TD>021K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4351525,22.79456196,131.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4359978</TD><TD>22.79500982</TD><TD>129.18</TD><TD>21200</TD><TD>021K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4359978,22.79500982,129.18 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4368646</TD><TD>22.79542086</TD><TD>126.51</TD><TD>21300</TD><TD>021K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4368646,22.79542086,126.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4377542</TD><TD>22.79578725</TD><TD>123.73</TD><TD>21400</TD><TD>021K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4377542,22.79578725,123.73 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4386649</TD><TD>22.79610608</TD><TD>120.92</TD><TD>21500</TD><TD>021K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4386649,22.79610608,120.92 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4395934</TD><TD>22.79637694</TD><TD>118.2</TD><TD>21600</TD><TD>021K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4395934,22.79637694,118.2 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4405403</TD><TD>22.7965863</TD><TD>115.49</TD><TD>21700</TD><TD>021K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4405403,22.7965863,115.49 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4414983</TD><TD>22.79674623</TD><TD>112.78</TD><TD>21800</TD><TD>021K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4414983,22.79674623,112.78 
+			</coordinates></Point></Placemark>
+	<Placemark><name>021K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4424655</TD><TD>22.79684883</TD><TD>110.08</TD><TD>21900</TD><TD>021K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4424655,22.79684883,110.08 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4434377</TD><TD>22.79689382</TD><TD>107.37</TD><TD>22000</TD><TD>022K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4434377,22.79689382,107.37 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4444112</TD><TD>22.79688406</TD><TD>104.68</TD><TD>22100</TD><TD>022K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4444112,22.79688406,104.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4453821</TD><TD>22.79681687</TD><TD>101.98</TD><TD>22200</TD><TD>022K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4453821,22.79681687,101.98 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4463499</TD><TD>22.79671856</TD><TD>99.28</TD><TD>22300</TD><TD>022K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4463499,22.79671856,99.28 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4473175</TD><TD>22.79661906</TD><TD>96.55</TD><TD>22400</TD><TD>022K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4473175,22.79661906,96.55 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4482887</TD><TD>22.79655826</TD><TD>93.9</TD><TD>22500</TD><TD>022K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4482887,22.79655826,93.9 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.449262</TD><TD>22.7965744</TD><TD>91.31</TD><TD>22600</TD><TD>022K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.449262,22.7965744,91.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4502303</TD><TD>22.79666583</TD><TD>88.89</TD><TD>22700</TD><TD>022K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4502303,22.79666583,88.89 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4511876</TD><TD>22.79682953</TD><TD>86.59</TD><TD>22800</TD><TD>022K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4511876,22.79682953,86.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>022K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4521323</TD><TD>22.79704851</TD><TD>84.45</TD><TD>22900</TD><TD>022K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4521323,22.79704851,84.45 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4530776</TD><TD>22.79726522</TD><TD>82.34</TD><TD>23000</TD><TD>023K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4530776,22.79726522,82.34 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4540336</TD><TD>22.79743529</TD><TD>80.46</TD><TD>23100</TD><TD>023K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4540336,22.79743529,80.46 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4550018</TD><TD>22.79752947</TD><TD>78.7</TD><TD>23200</TD><TD>023K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4550018,22.79752947,78.7 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.455975</TD><TD>22.79755003</TD><TD>77.04</TD><TD>23300</TD><TD>023K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.455975,22.79755003,77.04 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4569475</TD><TD>22.79750375</TD><TD>75.53</TD><TD>23400</TD><TD>023K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4569475,22.79750375,75.53 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4579177</TD><TD>22.79742545</TD><TD>74.19</TD><TD>23500</TD><TD>023K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4579177,22.79742545,74.19 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.458887</TD><TD>22.79733832</TD><TD>72.97</TD><TD>23600</TD><TD>023K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.458887,22.79733832,72.97 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4598568</TD><TD>22.7972551</TD><TD>71.84</TD><TD>23700</TD><TD>023K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4598568,22.7972551,71.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4608277</TD><TD>22.7971849</TD><TD>70.86</TD><TD>23800</TD><TD>023K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4608277,22.7971849,70.86 
+			</coordinates></Point></Placemark>
+	<Placemark><name>023K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4618006</TD><TD>22.79714134</TD><TD>69.98</TD><TD>23900</TD><TD>023K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4618006,22.79714134,69.98 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4627745</TD><TD>22.7971346</TD><TD>69.27</TD><TD>24000</TD><TD>024K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4627745,22.7971346,69.27 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4637477</TD><TD>22.79716668</TD><TD>68.71</TD><TD>24100</TD><TD>024K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4637477,22.79716668,68.71 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4647192</TD><TD>22.79723087</TD><TD>68.25</TD><TD>24200</TD><TD>024K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4647192,22.79723087,68.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4656868</TD><TD>22.79733301</TD><TD>67.91</TD><TD>24300</TD><TD>024K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4656868,22.79733301,67.91 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4666496</TD><TD>22.79746909</TD><TD>67.59</TD><TD>24400</TD><TD>024K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4666496,22.79746909,67.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4676048</TD><TD>22.79764533</TD><TD>67.26</TD><TD>24500</TD><TD>024K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4676048,22.79764533,67.26 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4685522</TD><TD>22.79785437</TD><TD>66.84</TD><TD>24600</TD><TD>024K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4685522,22.79785437,66.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4694911</TD><TD>22.79809415</TD><TD>66.47</TD><TD>24700</TD><TD>024K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4694911,22.79809415,66.47 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4704181</TD><TD>22.79837112</TD><TD>66.16</TD><TD>24800</TD><TD>024K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4704181,22.79837112,66.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>024K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4713315</TD><TD>22.7986848</TD><TD>65.88</TD><TD>24900</TD><TD>024K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4713315,22.7986848,65.88 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4722314</TD><TD>22.79903002</TD><TD>65.54</TD><TD>25000</TD><TD>025K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4722314,22.79903002,65.54 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4731152</TD><TD>22.79940948</TD><TD>65.28</TD><TD>25100</TD><TD>025K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4731152,22.79940948,65.28 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4739825</TD><TD>22.79982043</TD><TD>65.08</TD><TD>25200</TD><TD>025K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4739825,22.79982043,65.08 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4748304</TD><TD>22.80026461</TD><TD>64.97</TD><TD>25300</TD><TD>025K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4748304,22.80026461,64.97 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4756594</TD><TD>22.80073841</TD><TD>65.05</TD><TD>25400</TD><TD>025K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4756594,22.80073841,65.05 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4764683</TD><TD>22.80124138</TD><TD>65.05</TD><TD>25500</TD><TD>025K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4764683,22.80124138,65.05 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4772535</TD><TD>22.80177555</TD><TD>65.05</TD><TD>25600</TD><TD>025K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4772535,22.80177555,65.05 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.478012</TD><TD>22.8023419</TD><TD>65.16</TD><TD>25700</TD><TD>025K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.478012,22.8023419,65.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4787494</TD><TD>22.80293172</TD><TD>65.35</TD><TD>25800</TD><TD>025K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4787494,22.80293172,65.35 
+			</coordinates></Point></Placemark>
+	<Placemark><name>025K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4794607</TD><TD>22.80354845</TD><TD>65.59</TD><TD>25900</TD><TD>025K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4794607,22.80354845,65.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4801444</TD><TD>22.80419142</TD><TD>65.85</TD><TD>26000</TD><TD>026K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4801444,22.80419142,65.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4808014</TD><TD>22.80485799</TD><TD>66.07</TD><TD>26100</TD><TD>026K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4808014,22.80485799,66.07 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4814287</TD><TD>22.80554873</TD><TD>66.33</TD><TD>26200</TD><TD>026K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4814287,22.80554873,66.33 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4820229</TD><TD>22.80626416</TD><TD>66.56</TD><TD>26300</TD><TD>026K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4820229,22.80626416,66.56 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.482589</TD><TD>22.80699896</TD><TD>66.82</TD><TD>26400</TD><TD>026K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.482589,22.80699896,66.82 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4831223</TD><TD>22.80775459</TD><TD>67.04</TD><TD>26500</TD><TD>026K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4831223,22.80775459,67.04 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4836189</TD><TD>22.80853141</TD><TD>67.24</TD><TD>26600</TD><TD>026K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4836189,22.80853141,67.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4840848</TD><TD>22.80932436</TD><TD>67.4</TD><TD>26700</TD><TD>026K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4840848,22.80932436,67.4 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4845155</TD><TD>22.81013421</TD><TD>67.48</TD><TD>26800</TD><TD>026K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4845155,22.81013421,67.48 
+			</coordinates></Point></Placemark>
+	<Placemark><name>026K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4849126</TD><TD>22.81095876</TD><TD>67.51</TD><TD>26900</TD><TD>026K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4849126,22.81095876,67.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4852714</TD><TD>22.81179827</TD><TD>67.6</TD><TD>27000</TD><TD>027K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4852714,22.81179827,67.6 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4855927</TD><TD>22.81265068</TD><TD>67.51</TD><TD>27100</TD><TD>027K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4855927,22.81265068,67.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.485879</TD><TD>22.81351375</TD><TD>67.36</TD><TD>27200</TD><TD>027K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.485879,22.81351375,67.36 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4861277</TD><TD>22.81438676</TD><TD>67.24</TD><TD>27300</TD><TD>027K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4861277,22.81438676,67.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4863437</TD><TD>22.81526732</TD><TD>67.13</TD><TD>27400</TD><TD>027K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4863437,22.81526732,67.13 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4865274</TD><TD>22.81615412</TD><TD>67.1</TD><TD>27500</TD><TD>027K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4865274,22.81615412,67.1 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4866846</TD><TD>22.81704534</TD><TD>67.15</TD><TD>27600</TD><TD>027K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4866846,22.81704534,67.15 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4868264</TD><TD>22.81793873</TD><TD>67.25</TD><TD>27700</TD><TD>027K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4868264,22.81793873,67.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4869565</TD><TD>22.8188337</TD><TD>67.41</TD><TD>27800</TD><TD>027K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4869565,22.8188337,67.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>027K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4870806</TD><TD>22.81972939</TD><TD>67.59</TD><TD>27900</TD><TD>027K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4870806,22.81972939,67.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4872048</TD><TD>22.82062508</TD><TD>67.78</TD><TD>28000</TD><TD>028K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4872048,22.82062508,67.78 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.487329</TD><TD>22.82152078</TD><TD>67.96</TD><TD>28100</TD><TD>028K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.487329,22.82152078,67.96 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4874709</TD><TD>22.82241418</TD><TD>68.07</TD><TD>28200</TD><TD>028K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4874709,22.82241418,68.07 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.487643</TD><TD>22.82330296</TD><TD>68.12</TD><TD>28300</TD><TD>028K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.487643,22.82330296,68.12 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4878482</TD><TD>22.82418563</TD><TD>68.16</TD><TD>28400</TD><TD>028K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4878482,22.82418563,68.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4880924</TD><TD>22.8250597</TD><TD>68.16</TD><TD>28500</TD><TD>028K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4880924,22.8250597,68.16 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4883726</TD><TD>22.82592443</TD><TD>68.15</TD><TD>28600</TD><TD>028K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4883726,22.82592443,68.15 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4886867</TD><TD>22.82677911</TD><TD>68.17</TD><TD>28700</TD><TD>028K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4886867,22.82677911,68.17 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4890422</TD><TD>22.82761982</TD><TD>68.25</TD><TD>28800</TD><TD>028K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4890422,22.82761982,68.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>028K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4894326</TD><TD>22.82844715</TD><TD>68.38</TD><TD>28900</TD><TD>028K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4894326,22.82844715,68.38 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4898569</TD><TD>22.82925992</TD><TD>68.34</TD><TD>29000</TD><TD>029K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4898569,22.82925992,68.34 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4903192</TD><TD>22.83005466</TD><TD>68.42</TD><TD>29100</TD><TD>029K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4903192,22.83005466,68.42 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4908116</TD><TD>22.83083378</TD><TD>68.51</TD><TD>29200</TD><TD>029K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4908116,22.83083378,68.51 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4913324</TD><TD>22.83159688</TD><TD>68.59</TD><TD>29300</TD><TD>029K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4913324,22.83159688,68.59 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.491864</TD><TD>22.83235366</TD><TD>68.69</TD><TD>29400</TD><TD>029K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.491864,22.83235366,68.69 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4923957</TD><TD>22.83311043</TD><TD>68.79</TD><TD>29500</TD><TD>029K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4923957,22.83311043,68.79 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4929192</TD><TD>22.83387202</TD><TD>68.85</TD><TD>29600</TD><TD>029K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4929192,22.83387202,68.85 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4934283</TD><TD>22.83464188</TD><TD>68.84</TD><TD>29700</TD><TD>029K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4934283,22.83464188,68.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4939033</TD><TD>22.83543016</TD><TD>68.7</TD><TD>29800</TD><TD>029K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4939033,22.83543016,68.7 
+			</coordinates></Point></Placemark>
+	<Placemark><name>029K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4943357</TD><TD>22.83623932</TD><TD>68.52</TD><TD>29900</TD><TD>029K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4943357,22.83623932,68.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4947185</TD><TD>22.83706956</TD><TD>68.31</TD><TD>30000</TD><TD>030K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4947185,22.83706956,68.31 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4950568</TD><TD>22.83791627</TD><TD>67.86</TD><TD>30100</TD><TD>030K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4950568,22.83791627,67.86 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4953451</TD><TD>22.83877875</TD><TD>67.53</TD><TD>30200</TD><TD>030K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4953451,22.83877875,67.53 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4955829</TD><TD>22.83965428</TD><TD>67.43</TD><TD>30300</TD><TD>030K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4955829,22.83965428,67.43 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4957724</TD><TD>22.84053991</TD><TD>67.54</TD><TD>30400</TD><TD>030K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4957724,22.84053991,67.54 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4959101</TD><TD>22.84143375</TD><TD>67.89</TD><TD>30500</TD><TD>030K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4959101,22.84143375,67.89 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4959974</TD><TD>22.84233295</TD><TD>68.4</TD><TD>30600</TD><TD>030K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4959974,22.84233295,68.4 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4960179</TD><TD>22.84323552</TD><TD>68.98</TD><TD>30700</TD><TD>030K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4960179,22.84323552,68.98 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4959567</TD><TD>22.84413639</TD><TD>69.41</TD><TD>30800</TD><TD>030K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4959567,22.84413639,69.41 
+			</coordinates></Point></Placemark>
+	<Placemark><name>030K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4958143</TD><TD>22.84502946</TD><TD>69.57</TD><TD>30900</TD><TD>030K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4958143,22.84502946,69.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4955941</TD><TD>22.84590884</TD><TD>69.55</TD><TD>31000</TD><TD>031K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4955941,22.84590884,69.55 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4953249</TD><TD>22.84677675</TD><TD>69.25</TD><TD>31100</TD><TD>031K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4953249,22.84677675,69.25 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4950645</TD><TD>22.84764689</TD><TD>68.87</TD><TD>31200</TD><TD>031K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4950645,22.84764689,68.87 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.494862</TD><TD>22.84852986</TD><TD>68.62</TD><TD>31300</TD><TD>031K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.494862,22.84852986,68.62 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4947393</TD><TD>22.8494255</TD><TD>68.26</TD><TD>31400</TD><TD>031K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4947393,22.8494255,68.26 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4947009</TD><TD>22.85032747</TD><TD>68.19</TD><TD>31500</TD><TD>031K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4947009,22.85032747,68.19 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4947406</TD><TD>22.85122945</TD><TD>68.32</TD><TD>31600</TD><TD>031K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4947406,22.85122945,68.32 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4948339</TD><TD>22.85212829</TD><TD>68.69</TD><TD>31700</TD><TD>031K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4948339,22.85212829,68.69 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4949287</TD><TD>22.85302702</TD><TD>69.13</TD><TD>31800</TD><TD>031K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4949287,22.85302702,69.13 
+			</coordinates></Point></Placemark>
+	<Placemark><name>031K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4949653</TD><TD>22.85392906</TD><TD>69.68</TD><TD>31900</TD><TD>031K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4949653,22.85392906,69.68 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4948912</TD><TD>22.85482861</TD><TD>70.24</TD><TD>32000</TD><TD>032K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4948912,22.85482861,70.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4946948</TD><TD>22.85571244</TD><TD>70.74</TD><TD>32100</TD><TD>032K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4946948,22.85571244,70.74 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.494384</TD><TD>22.85656769</TD><TD>71.15</TD><TD>32200</TD><TD>032K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.494384,22.85656769,71.15 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4939562</TD><TD>22.85737812</TD><TD>71.44</TD><TD>32300</TD><TD>032K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4939562,22.85737812,71.44 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4934389</TD><TD>22.85814293</TD><TD>71.7</TD><TD>32400</TD><TD>032K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4934389,22.85814293,71.7 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4928714</TD><TD>22.85887702</TD><TD>71.66</TD><TD>32500</TD><TD>032K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4928714,22.85887702,71.66 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.492314</TD><TD>22.85961748</TD><TD>71.52</TD><TD>32600</TD><TD>032K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.492314,22.85961748,71.52 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4918511</TD><TD>22.86041123</TD><TD>71.44</TD><TD>32700</TD><TD>032K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4918511,22.86041123,71.44 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+800</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4915299</TD><TD>22.86126268</TD><TD>71.24</TD><TD>32800</TD><TD>032K+800</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4915299,22.86126268,71.24 
+			</coordinates></Point></Placemark>
+	<Placemark><name>032K+900</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4913604</TD><TD>22.86215094</TD><TD>70.84</TD><TD>32900</TD><TD>032K+900</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4913604,22.86215094,70.84 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+000</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4913459</TD><TD>22.86305265</TD><TD>70.63</TD><TD>33000</TD><TD>033K+000</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4913459,22.86305265,70.63 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+100</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4914896</TD><TD>22.86394479</TD><TD>70.44</TD><TD>33100</TD><TD>033K+100</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4914896,22.86394479,70.44 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+200</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4917852</TD><TD>22.8648041</TD><TD>70.18</TD><TD>33200</TD><TD>033K+200</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4917852,22.8648041,70.18 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+300</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4922248</TD><TD>22.86560894</TD><TD>70</TD><TD>33300</TD><TD>033K+300</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4922248,22.86560894,70 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+400</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4927889</TD><TD>22.86634464</TD><TD>69.77</TD><TD>33400</TD><TD>033K+400</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4927889,22.86634464,69.77 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+500</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4933976</TD><TD>22.86704975</TD><TD>69.57</TD><TD>33500</TD><TD>033K+500</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4933976,22.86704975,69.57 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+600</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4940057</TD><TD>22.86775524</TD><TD>69.35</TD><TD>33600</TD><TD>033K+600</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4940057,22.86775524,69.35 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+700</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4945522</TD><TD>22.86850253</TD><TD>69.06</TD><TD>33700</TD><TD>033K+700</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4945522,22.86850253,69.06 
+			</coordinates></Point></Placemark>
+	<Placemark><name>033K+764</name>
+			<description><![CDATA[<TABLE BORDER="1" WIDTH="600"><TR BGCOLOR=#e0ffff><TH>RoadName</TH><TH>LR</TH><TH>X</TH><TH>Y</TH><TH>Z</TH><TH>KM</TH><TH>KM2</TH></TR><TD>國10</TD><TD>M</TD><TD>120.4948413</TD><TD>22.86901428</TD><TD>68.93</TD><TD>33764</TD><TD>033K+764</TD></TABLE>]]></description>
+			<styleUrl>#StyPMI</styleUrl>	<Point>
+			<coordinates>
+				120.4948413,22.86901428,68.93 
+			</coordinates></Point></Placemark>
+</Folder>
+		</Document>
+	</kml>
